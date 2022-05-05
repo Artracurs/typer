@@ -1,2 +1,4 @@
-# typer
-blind typing tranber fro vim
+# TYPER
+### blind typing tranber fro vim
+
+

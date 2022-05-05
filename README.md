@@ -1,4 +1,4 @@
 # TYPER
-### blind typing tranber fro vim
+### blind typing trainer for vim
 
 
